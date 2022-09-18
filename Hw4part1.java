@@ -31,8 +31,8 @@ public class Hw4part1 {
 
 //1.4
         String s = "Something";
-        for (int d = 0; d< s.length(); d++)
-            System.out.println(s.charAt(d));
+        for (int d = 0; d< s.length(); d++){
+            System.out.println(s.charAt(d));}
         System.out.println();
 
 //1.5
