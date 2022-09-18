@@ -13,7 +13,7 @@ public class hw4part2 {
             con = scan.nextLine();
             if(con.equals("leave")){
                 bool = false;
-                System.out.println("Goodbye!");}
+                System.out.println("Goodbye!");} 
         }
     }
 }
