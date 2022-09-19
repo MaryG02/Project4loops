@@ -10,7 +10,7 @@ public class hw4part3 {
         String con;
         System.out.println("Hello, enter your name, please");
         name = scan.nextLine();
-        while (bool) {
+        while (bool) { 
             System.out.println("Enter your word");
             str = scan.nextLine();
             for (int i = 0; i < str.length(); i++) {
